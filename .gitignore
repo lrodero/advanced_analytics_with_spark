@@ -1,0 +1,9 @@
+target/
+bin/
+wordCountOutput/
+.classpath
+.project
+.cache-main
+.settings
+
+
